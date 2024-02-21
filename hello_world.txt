@@ -1,1 +1,2 @@
 Here is some text.
+Editing to check git.commit
